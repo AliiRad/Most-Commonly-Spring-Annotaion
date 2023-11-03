@@ -1,5 +1,5 @@
 # Most-Commonly-Spring-Annotaion
-THESE ARE MOST COMMONLY USED ANNOTATION IN SPRING BOOT WITH INFORMATION
+THESE ARE THE MOST COMMONLY USED ANNOTATION IN SPRING BOOT WITH INFORMATION
 
 Spring Boot, being built on the Spring Framework, leverages many annotations to simplify the development of Java applications. Here is an overview of some of the key annotations in Spring Boot and their common uses:
 
