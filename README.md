@@ -5,13 +5,13 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
 
 @SpringBootApplication:
 
-This is the primary annotation that marks a class as a Spring Boot application. It combines @Configuration, @EnableAutoConfiguration, and @ComponentScan annotations.
-It is typically placed on the main application class.
+	This is the primary annotation that marks a class as a Spring Boot application. It combines @Configuration, @EnableAutoConfiguration, and @ComponentScan annotations.
+	It is typically placed on the main application class.
 
 @Controller:
 
-Annotates a class as a Spring MVC controller, which handles HTTP requests and defines the endpoints for a web application.
-Used in combination with @RequestMapping to specify the URL mappings.
+	Annotates a class as a Spring MVC controller, which handles HTTP requests and defines the endpoints for a web application.
+	Used in combination with @RequestMapping to specify the URL mappings.
 
 @RestController:
 
