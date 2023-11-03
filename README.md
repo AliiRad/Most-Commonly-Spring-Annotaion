@@ -23,7 +23,7 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
 @Service:
 
 	Indicates that a class is a service component in the application. 
- 	Service classes are typically used for business logic and are injected into controllers or other components.
+ 	Service classes are typically used for business logic and they're injected into controllers or other components.
 	
 @Repository:
 
@@ -34,7 +34,8 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
 @Component:
 
 	A generic stereotype annotation for any Spring-managed component.
-	It's often used for custom beans that don't fall into one of the more specific categories like @Controller or @Service.
+	It's often used for custom beans 
+	that don't fall into one of the more specific categories like @Controller or @Service.
 	
 @Autowired:
 
