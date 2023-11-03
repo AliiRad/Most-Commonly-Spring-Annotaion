@@ -96,7 +96,8 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
 	
 @Transactional:
 
-	Marks a method as a transactional method, which manages transactions automatically for methods in Spring-managed beans.
+	Marks a method as a transactional method,
+	which manages transactions automatically for methods in Spring-managed beans.
 	
 @ConditionalOnProperty:
 
