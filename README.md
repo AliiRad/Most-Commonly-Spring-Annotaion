@@ -55,7 +55,7 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
  	It's used in conjunction with @Bean methods to define beans.
 	Often used for configuration classes that provide customized configurations.
 	
-@Bean:
+<h3 style="color: darkcyan;">@Bean:</h3>
 
 	Used in @Configuration classes to define Spring beans.
  	The return value of a @Bean method becomes a managed bean.
@@ -71,7 +71,8 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
 	Used in controller methods to bind a method parameter to a URI template variable.
 	It extracts values from the URI path and uses them as method parameters.
 	
-@RequestParam:
+<h3 style="color: darkcyan;">@RequestParam:</h3>
+
 
 	Binds a method parameter to a query string or form parameter in an HTTP request.
 	It allows you to extract data sent in the request parameters.
