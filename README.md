@@ -116,6 +116,6 @@ Spring Boot, being built on the Spring Framework, leverages many annotations to 
 	Enables Spring Boot's auto-configuration mechanism,
  	which automatically configures various beans and settings based on classpath dependencies and properties.
 	
-These are some of the most commonly used annotations in Spring Boot, 
+<b>These are some of the most commonly used annotations in Spring Boot, 
 and they play a significant role in simplifying the development of various types of applications,
-whether it's a web application, RESTful API, or a batch processing job.
+whether it's a web application, RESTful API, or a batch processing job.<b>
